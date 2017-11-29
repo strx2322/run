@@ -1,7 +1,7 @@
 # RUN : Residual Features and Unified Prediction Network for Single-Stage Detection
 by Kyoung-min Lee, Jaesuk Choi, Jisoo Jeong, Nojun Kwak.
 
-RUN is a single stage detector based on SSD. You can use our network on [SSD's code](https://github.com/weiliu89/caffe/tree/ssd). Our paper is available on https://arxiv.org/abs/1707.05031.
+RUN is a single stage detector based on SSD. You can use our network on [SSD's code](https://github.com/weiliu89/caffe/tree/ssd). Our paper is available at https://arxiv.org/abs/1707.05031.
 
 Our trained model is uploaded on google drive.
 * RUN_300_07++12 : [2WAY](https://drive.google.com/open?id=1e-SUcWMLAXZGCjauWRTT4QjgDGqKdZqf), [3WAY](https://drive.google.com/open?id=1cCSMCncThMXnc5-siv0xd5qN2IApS1Iz)
